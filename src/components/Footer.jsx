@@ -15,7 +15,7 @@ const Footer = () => {
                 <LuCommand className="w-6 h-6 text-indigo-400" />
 
                 <h3 className="clash-display text-lg text-zinc-100">
-                  ForexTrade
+                  TradeFlow
                 </h3>
               </div>
 
